@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Blog
+title: 列表
 ---
 
 <h1>Latest Posts</h1>
